@@ -1,0 +1,62 @@
+body {
+    background-color: beige;
+}
+
+.Communityguidlines {
+    font-size: 20px ;
+
+}
+
+#v40btn {
+    float : right;
+
+    display: inline-block;
+    font-size: 20px;
+    background-color: rgb(231, 231, 186);
+    text-decoration: none;
+    margin : 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#v40nextbtn {
+    float : right;
+
+    display: inline-block;
+    font-size: 20px;
+    background-color: rgb(231, 231, 186);
+    text-decoration: none;
+    margin : 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+#v40{
+   text-align: center;
+   border: 5px solid black;
+
+   margin-left: auto;
+   margin-right: auto;
+   row-gap: 10px solid black;
+    font-size: 20px;
+    
+} 
+
+#heading1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+} 
+
+
+
+
+
+
+
+
+
+
